@@ -1,3 +1,3 @@
-const baseURL = 'http://localhost:8000'
+const baseURL = 'https://digitix-emailing-portal-pvt.vercel.app'
 export default baseURL
 
